@@ -1,0 +1,73 @@
+@font-face {
+ font-family: basis-grotesque-pro-regular;
+ src: url(fonts/basis-grotesque-pro-regular.woff);
+ font-weight: normal;
+}
+
+body {
+    font-family: basis-grotesque-pro-regular;
+}
+
+.navbar {
+    padding: 1.5rem 4rem;
+    font-size: 1.3rem;
+    background: white!important;
+}
+
+.nav-item{
+    padding-right: 1.5rem;
+}
+
+.btn-success{
+    background-color: #2AE7B6;
+    color: black;
+    border: none;
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+h1 {
+ font-size: 6rem;
+ font-weight: bold;
+ line-height: 6rem;
+
+}
+
+p{
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+}
+
+.prazan{
+    height: 100px;
+    background: gray;
+}
+
+.purple{
+    background: purple;
+    color: white;
+}
+
+.turquoise{
+    background: turquoise;
+    color: white;
+}
+
+footer {
+    color: white;
+    background: gray;
+}
+
+
+
+/* Start of Footer Sectiona */
+
+footer {
+    background: gray; 
+}
+
+.dugme{
+ display: inline-flex;
+
+}
+
